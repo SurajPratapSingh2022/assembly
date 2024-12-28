@@ -1,4 +1,4 @@
-;write a program that  display a message on a screen     
+;write a program to display a message on screen     
 
 .model small    ;model directive
 .stack 100h     ;stack segment 100h
