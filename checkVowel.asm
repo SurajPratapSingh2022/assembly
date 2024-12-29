@@ -1,4 +1,4 @@
-;Write an assembly language program that reads a chracter from keyword & determine whether the character is a vowel or constant, your program should display proper message ?
+;Write an assembly language program that reads a chracter from keyword & determine whether the character is a vowel or consonant, your program should display proper message ?
 ;vowel  --> a, e, i, o , u
 
 .model small
